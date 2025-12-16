@@ -1,6 +1,7 @@
 # React + Vite
 
-**Universidad de las Fuerzas Armadas ESPE** **Materia:** Programación Integral de Componentes Web
+**Universidad de las Fuerzas Armadas ESPE** 
+**Materia:** Programación Integrativa de Componentes Web
 
 ## Descripción
 Este proyecto es una Single Page Application (SPA) desarrollada con **React** y **Vite**. La aplicación demuestra el uso de los conceptos fundamentales de React, incluyendo la creación de componentes reutilizables, gestión de estado, efectos secundarios y renderizado dinámico de datos.
